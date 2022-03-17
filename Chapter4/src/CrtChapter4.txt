@@ -1,0 +1,88 @@
+Chapter 4 crt
+1a) Scanner userinput = new Scanner(System.in);
+       System.out.println("Enter your grade: ");
+       int grade = userinput.nextInt();
+       if (grade >= 90)
+       {
+           System.out.println("Great Job!!!");
+       }
+      
+1b)   if ((grade < 20)&&(grade > 90))
+       {
+           System.out.println("Error");
+       }
+1c Scanner userinput = new Scanner(System.in);
+       System.out.println("Enter
+number: ");
+       int
+y = userinput.nextInt();
+       	if (y<100)
+          	{
+        	   int y2 = y +2
+        	   System.out.println(“The value of your number is now” +y2);
+        	 } 
+
+
+
+
+
+2   Scanner userinput = new Scanner(System.in);
+       System.out.println("Enter
+number: ");
+       int
+y = userinput.nextInt();
+  	System.out.println("Enter second number: ");
+       int
+x = userinput.nextInt();
+   	input.close();
+       	if(y>x)
+       	{
+           	System.out.println("First number is larger. ");
+
+
+
+
+
+3.Even For 1, Odd for 2
+
+
+
+
+
+4a) {
+   public static void main(String args[]){
+   	int a=1,b=50;
+   	int number=(int) (Math.random()*((b-a)+1))+a;
+   	System.out.println("Random integer between 1 and 50 is "+number);
+   }
+}
+4b) {
+   public static void main(String args[]){
+   	int a=20,b=100;
+   	int number=(int) (Math.random()*((b-a)+1))+a;
+   	System.out.println("Random integer between 121 and 200 is "+number);
+   }
+}
+4c){
+   public static void main(String args[]){
+   	double a=10,b=20;
+   	double number= (double) (Math.random()*((b-a)+1))+a;
+   	System.out.println("Random integer between 40 and 50, is "+number);
+   }
+}
+
+
+
+
+
+
+
+5. 1. If you type 18 or 65 it will not give you Child, Adult, or Senior.  2. Negative numbers Still give children
+
+
+
+
+
+
+
+ 6.a) True   	b)False  	c) False   	d) False	 e)True	      f) True      g) True 

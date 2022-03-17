@@ -1,0 +1,16 @@
+1. The purpose of a loop structure is to execute a set of statements over and over again based on a condition.
+2. The do while loop executes the content of the loop once before checking the condition of the while. Whereas a while loop will check the condition first before executing the content. 
+3. The Prompter Review.
+4. a) An infinite loop is a loop that continues forever.
+b) Two types of errors that can lead to an infinite loop are a syntax error, such as a semicolon after the condition and a logic error, such as the condition of the loop always remaining true.
+c) Overflow occurs when there are not enough bits to store a number.
+5. 60
+6. This would not become an infinite loop regardless of the initial value of x.
+7. A counter is useful for keeping track of the number of times a user enters a value or types a password. A counter is initialized when it is declared and incremented by a fixed
+amount. An accumulator is useful for summing score totals or keeping track of inventory totals. An accumulator is incremented by varying amounts each time the set of statements execute.
+8. for (int i = 3; i <= 10; i++) {
+ 
+total += i;
+ 
+}
+9. Two factors that should be considered when determining which loop structure to use are whether the number of times the loop will be executed is fixed and whether the loop should execute at least once.
