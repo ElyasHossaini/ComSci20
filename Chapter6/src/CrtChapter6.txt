@@ -1,0 +1,18 @@
+CRT 6
+2. A method declaration is the first line of a method which contains the method name, access level, return type, and parameters, if any. The method body contains the statements that
+implement the method.
+ 
+3.
+An access modifier is used to change the access level of a method.
+4.
+Another word used for describing the access level of a method is visibility.
+5.
+var1 is local to main(). var2 is local to the main() for statement. var3 is local to the
+method1(). var4 is local to the method1() for statement.
+6.
+a) public static int getVowels(String x)
+b) public static int extractDigit(int x)
+c) public static String insertString(String x, int y)
+7.
+a) A compiler distinguishes one method from another by the types, order, and number of parameters
+b) Two methods may share the same name, provided the number of parameters are different, or if they both have the same parameters, then there is at least one position, where the parameter types differ.
