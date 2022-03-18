@@ -42,7 +42,7 @@ public static void main(String[] args)
  
  				input.close();
  
- 			hours=days*24;
+ 				hours=days*24;
  
  				System.out.println(hours+" hours in "+days+" days");
  
