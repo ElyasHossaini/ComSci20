@@ -44,3 +44,9 @@ public class AccountSetup {
 	}
 
 }
+/*
+Enter a username:  ElyasHossaini
+Enter a password that is at least 8 characters:  Ilovenoodles
+Your username is elyashossaini and your password is ilovenoodles
+
+*/

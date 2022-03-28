@@ -46,3 +46,17 @@ public class SurfsupPart3 {
 	}
 
 }
+/*
+Please enter the height of the wave in feet:
+8
+Great day for surfing!
+Please enter the height of the wave in feet:
+5
+Go body boarding!
+Please enter the height of the wave in feet:
+3
+Go for a swim
+Please enter the height of the wave in feet:
+0
+Whoa! What kind of surf is that?
+*/

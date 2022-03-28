@@ -52,3 +52,19 @@ public class GuessingGame {
 	}
 
 }
+/*
+Enter a number between 1 and 20: 2
+Too low.
+Enter a number between 1 and 20: 4
+Too low.
+Enter a number between 1 and 20: 19
+Too High.
+Enter a number between 1 and 20: 12
+Too low.
+Enter a number between 1 and 20: 13
+Too low.
+Enter a number between 1 and 20: 15
+Too low.
+Enter a number between 1 and 20: 17
+Your guessed it. Congratulations!
+*/

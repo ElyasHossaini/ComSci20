@@ -41,3 +41,7 @@ public class DigitsSum {
 	
 
 }
+/*
+Please enter a positive integer: 24
+The sum of the digits is 6
+*/

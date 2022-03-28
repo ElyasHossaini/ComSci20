@@ -38,3 +38,8 @@ public class OddSums {
 	}
 
 }
+/*
+Enter a number
+8
+The sum of the odd numbers from 1 to 8 is 16
+*/

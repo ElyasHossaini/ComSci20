@@ -38,5 +38,10 @@ public class RandomNum {
 
 }
 /*
+Enter a min number: 
+6
 
+Enter a max number: 
+120
+The number is: 39.33202457359599
 */
