@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:Modify the Digits application created in a review earlier in this chapter to show the hundreds-place digit of a three digit number.
+Purpose:
  
 Author: Elyas Hossaini
 School: CHHS
