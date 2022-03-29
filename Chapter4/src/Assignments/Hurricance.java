@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: March 14, 2022
  
-Purpose:
+Purpose:Create a hurricane application that displays the wind speed for the hurricane category entered by the user. Display the speed in miles per hour (mph), knots (kts), and kilometers per hour (km/hr). 
  
 Author: Elyas Hossaini
 School: CHHS

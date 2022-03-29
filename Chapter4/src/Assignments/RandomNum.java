@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: March 14, 2022
  
-Purpose:
+Purpose:Create a RandomNum application that prompts the user for two numbers. The first number is a minimum value and the second is a maximum value. RandomNum then displays an integer between the min and max values entered by the user.
  
 Author: Elyas Hossaini
 School: CHHS

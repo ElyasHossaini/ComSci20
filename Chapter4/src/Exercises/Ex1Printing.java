@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: March 14, 2022
  
-Purpose:
+Purpose:Create a Printing application that prompts the user for the number of copies to print and then displays the price per copy and the total price for the job. 
  
 Author: Elyas Hossaini
 School: CHHS

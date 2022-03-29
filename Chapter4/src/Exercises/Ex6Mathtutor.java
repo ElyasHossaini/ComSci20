@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: March 14, 2022
  
-Purpose:
+Purpose:Create a MathTutor application that displays math problems by randomly generating two numbers, 1 through 10 and an operator (*,+,-,/) and then prompts the user for the answer.
  
 Author: Elyas Hossaini
 School: CHHS

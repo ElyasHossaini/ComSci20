@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: March 14, 2022
  
-Purpose:
+Purpose:Create a Grade application that prompts the user for the percentage earned on a test or other graded work and then displays the corresponding letter grade.
  
 Author: Elyas Hossaini
 School: CHHS

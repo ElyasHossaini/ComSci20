@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Modify the SurfsUp application to display "Great day for surfing." when the waves are 6 feet or over and "Go body boarding." when the waves between 3 and 6 feet. "Go for a swim." when the waves are from 0 to 3 feet and "Whoa! What kind of surf is that?" otherwise.
  
 Author: Elyas Hossaini
 School: CHHS

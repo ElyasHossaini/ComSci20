@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Display a SurfsUp application that prompts the user for the wave height and then display "Great day for surfing." when the waves are 6 feet and above.
  
 Author: Elyas Hossaini
 School: CHHS
