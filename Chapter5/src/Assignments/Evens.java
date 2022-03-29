@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Create an Evens application that displays the even numbers between 1 and 20, inclusive.
  
 Author: Elyas Hossaini
 School: CHHS

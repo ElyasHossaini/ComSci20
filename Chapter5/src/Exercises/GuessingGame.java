@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Modify the GuessingGame application created in chapter 4 exercise 9 to allow for as many guesses as needed.
  
 Author: Elyas Hossaini
 School: CHHS

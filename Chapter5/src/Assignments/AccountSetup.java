@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Create an AccountSetup application that prompts the user for a user name and a password.
  
 Author: Elyas Hossaini
 School: CHHS

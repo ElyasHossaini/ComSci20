@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Create a NumberSums application that prompts the user for a number and then displays the numbers 1 through the numbers entered, each on a separate piece of line. Below the numbers, the sum is displayed.
  
 Author: Elyas Hossaini
 School: CHHS

@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Create a DigitsSum application that prompts the user for a non-negative integer and then displays the sum of the digits.
  
 Author: Elyas Hossaini
 School: CHHS
