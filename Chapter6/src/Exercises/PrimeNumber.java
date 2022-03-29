@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Modify the PrimeNUmber application created in the chapter 5 exercise 1 to include a method named isPrime(). The isPrime() method should require one parameter and return a boolean value.
  
 Author: Elyas Hossaini
 School: CHHS

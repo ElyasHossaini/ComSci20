@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Create a TimeConverter application that allows the user to choose among converting hours to minutes, days to hours, minutes to hours, or hours to days. Use methods as appropriate.
  
 Author: Elyas Hossaini
 School: CHHS

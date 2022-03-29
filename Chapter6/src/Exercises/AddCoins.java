@@ -2,7 +2,7 @@
  
 Program:.java          Last Date of this Revision: February 24, 2022
  
-Purpose:
+Purpose:Create an AddCoins application that prompts the user for the number of pennies, nickles, dimes, and quarters, and then displays their total dollar amount.
  
 Author: Elyas Hossaini
 School: CHHS
