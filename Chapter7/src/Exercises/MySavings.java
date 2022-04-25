@@ -1,8 +1,19 @@
+/*
+ 
+Program:.java          Last Date of this Revision: April 25, 2022
+ 
+Purpose: The Adder game prompts a player for the answer to an addition problem.
+ 
+Author: Elyas Hossaini
+School: CHHS
+Course: Computer Programming 20
+ 
+ 
+*/
 package Exercises;
  
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
- 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;

@@ -1,8 +1,19 @@
+/*
+ 
+Program:.java          Last Date of this Revision: April 25, 2022
+ 
+Purpose: Create a MySavings application that displays a menu of choices for entering pennies, nickels, dimes, and quarters into a piggy bank and then prompts the user to make a selection.
+ 
+Author: Elyas Hossaini
+School: CHHS
+Course: Computer Programming 20
+ 
+ 
+*/
 package Exercises;
  
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
- 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
