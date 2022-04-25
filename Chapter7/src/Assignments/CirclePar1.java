@@ -17,7 +17,7 @@ public class CirclePar1 {
 	public static void main(String[] args) 
 	{
 
-		ReviewCircle spot = new ReviewCircle(8);
+		ReviewCircle spot = new ReviewCircle();
 		
 		spot.setRadius(3);
 		System.out.println("Circle radius: " + spot.getRadius());
