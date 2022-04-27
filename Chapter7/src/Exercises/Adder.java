@@ -95,8 +95,8 @@ JTextArea display = new JTextArea();
 display.setBounds(284, 191, 243, 22);
 contentPane.add(display);
  
-Player_Adder a = new Player_Adder();
-Game_Adder b = new Game_Adder();
+Player_Adder a = new Player_Adder(); //calling class
+Game_Adder b = new Game_Adder(); //calling class
  
 question.setText(b.showProblem());
  
@@ -107,7 +107,7 @@ submit.setForeground(Color.DARK_GRAY);
 submit.addActionListener(new ActionListener() {
 public void actionPerformed(ActionEvent e)
 {
-int score = a.getScore();
+int score = a.getScore(); //initializes score as an integer
  
 final int SENTINEL = 999;
  
@@ -116,7 +116,7 @@ int playerAnswer = Integer.parseInt(answerT.getText());
  
 playerAnswer = Integer.parseInt(answerT.getText());
  
-if (playerAnswer != SENTINEL)
+if (playerAnswer != SENTINEL) //if and else statements to determine if input from user is the right answer
 {
 if (playerAnswer != b.getAnswer() && b.numAttempts() <= 3)
 {
@@ -135,17 +135,17 @@ question.setText(b.showProblem());
 playerAnswer = Integer.parseInt(answerT.getText());
  
  
-score = a.getScore();
+score = a.getScore(); //grabs score from Player_Adder
  
-display.setText("Your score is: " + score);
+display.setText("Your score is: " + score); //displays score
 }
 }
  
 else
 {
-score = a.getScore();
+score = a.getScore(); //grabs score from Player_Adder
  
-display.setText("Your final score is: " + score);
+display.setText("Your final score is: " + score); //displays final score
  
 }
  

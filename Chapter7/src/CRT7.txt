@@ -17,4 +17,4 @@ f) Roo
 g) 1
 
 6. Class is a blueprint or template from which objects are created, and objects are an instance of a 
-class.
+class. While a class is a logical entity, an object is a physical entity. Each object has a state in which all the member variables have specific values.

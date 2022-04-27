@@ -17,11 +17,11 @@ public class CirclePart3 {
 	public static void main(String[] args)
 	{
 
-		ReviewCircle spot = new ReviewCircle(5);
+		ReviewCircle spot = new ReviewCircle(5); //overload constructor to 5
 		
-		System.out.println("Circle radius: " + spot.getRadius());
-		System.out.println("Circle area: " + spot.area());
-		ReviewCircle.displayareaformula();
+		System.out.println("Circle radius: " + spot.getRadius()); //displays radius of circle
+		System.out.println("Circle area: " + spot.area()); //displays area of circle
+		ReviewCircle.displayareaformula(); //grabs formula of area of a circle from ReviewCircle class
 
 	}
 

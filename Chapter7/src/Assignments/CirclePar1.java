@@ -17,11 +17,11 @@ public class CirclePar1 {
 	public static void main(String[] args) 
 	{
 
-		ReviewCircle spot = new ReviewCircle();
+		ReviewCircle spot = new ReviewCircle(); //calling class
 		
-		spot.setRadius(3);
-		System.out.println("Circle radius: " + spot.getRadius());
-		System.out.println("Circle circumfrance: " + spot.circumference());
+		spot.setRadius(3); //sets radius to 3
+		System.out.println("Circle radius: " + spot.getRadius()); //displays radius of circle
+		System.out.println("Circle circumfrance: " + spot.circumference()); //displays circumfrance of circle
 		
 
 	}

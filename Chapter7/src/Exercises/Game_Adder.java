@@ -33,7 +33,7 @@ return problem;
 public int answerProblem(int playerAnswer)
 {
 attemptsMade += 1;
- 
+//if else statements to determine whether to give 1, 3, or 5 points
 if (playerAnswer == answer)
 {
 if (attemptsMade == 1)
@@ -54,13 +54,13 @@ return(0);
  
 public int numAttempts()
 {
-return(attemptsMade);
+return(attemptsMade); //show number of attempts
  
 }
  
 public int getAnswer()
 {
-return(answer);
+return(answer); //displays answer
  
 }
 }

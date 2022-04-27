@@ -28,7 +28,7 @@ public class MySavings extends JFrame {
 	private JPanel contentPane;
 	
 	public JLabel TotalPrint = new JLabel("");
-	MySavings2 savings = new MySavings2();
+	MySavings2 savings = new MySavings2(); //calling class
 	JTextField a = new JTextField();
 	JTextField A;
 	JLabel WL = new JLabel();
@@ -226,7 +226,7 @@ public class MySavings2 {
 		public String toString() {
 			String SSavings;
 			
-			SSavings = ("You have $" + Savings2 + " in your account");
+			SSavings = ("You have $" + Savings2 + " in your account"); //display amount of money in account
 			return(SSavings);
 		} 
  
