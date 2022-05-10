@@ -9,7 +9,8 @@ School: CHHS
 Course: Computer Programming 20
  
  
-*/package Assignments;
+*/
+package Assignments;
 
 import java.util.Scanner;
 
