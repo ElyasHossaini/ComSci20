@@ -29,19 +29,20 @@ public class StudentRoster {
  
 		for(int i = 0; i < studentNum; i++) //for loop that checks if variable i is less than studentNum
 		{
-		System.out.println("Enter the student's name: "); //prompts user for name of student
+			System.out.println("Enter the student's name: "); //prompts user for name of student
  
-		String nameE = input.next(); //record student's name
+			String nameE = input.next(); //record student's name
  
-		names[i] = nameE; //gives element a name
+			names[i] = nameE; //gives element a name
 		}
  
 		System.out.println("\nStudent Roster: "); //display title
  
 		for (String element: names) //traversing the array
 		{
-		System.out.println(element); //display all of the student names
+			System.out.println(element); //display all of the student names
 		}
+		
 		input.close();
  
 		
